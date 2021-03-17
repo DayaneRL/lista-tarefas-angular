@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "version": "1.0",
+    "name": "To-do",
+    "description": "teste angular",
+    "author": "Dayane Lima",
+    "browser_action": {
+   	 "default_title": "ToDo",
+   	 "default_popup": "src/index.html",
+   	 "default_icon": "icon.png"
+    }
+}=
